@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="merah">#ffff0000</color>
+    <color name="hijau">#FF008000</color>
+    <color name="biri">#FF0000FF</color>
+
+    <!-- Bright Color -->
+    <item name="red" type="color">#ffff4444</item>
+    <item name="green" type="color">#ff99cc00</item>
+    <item name="blue" type="color">#ff33b5e5</item>
+    <item name="purple" type="color">#ffaa66cc</item>
+    <item name="orange" type="color">#ffffbb33</item>
+    <item name="yellow" type="color">#ffffee00</item>
+
+    <!-- Dark Color -->
+    <item name="darkred" type="color">#ffcc0000</item>
+    <item name="darkgreen" type="color">#ff669900</item>
+    <item name="darkblue" type="color">#ff0099cc</item>
+    <item name="darkpurple" type="color">#ff9933cc</item>
+    <item name="darkorange" type="color">#ffff8800</item>
+    <item name="darkyellow" type="color">#ffffd700</item>
+</resources>
